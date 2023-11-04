@@ -42,7 +42,6 @@ I am a Fifth-year Dual Degree Undergraduate student at the Center for Excellence
 
 ## Research Experience
 
-## Research Experience
 ### 📊 Automatic Evaluation Framework for Language Generation using LLMs [August 2023 - Present]
 - **Microsoft Research India**: Proposed a 2-stage evaluation framework with a group of LLMs like Llama 2, GPT-4, Falcon, etc., for automatic evaluation of NLG. The proposed framework is a zero-shot solution, which can be the next SOTA and correlate better with human evaluation.
 
