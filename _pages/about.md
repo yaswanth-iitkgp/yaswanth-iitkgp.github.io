@@ -21,11 +21,11 @@ I am a Fifth-year Dual Degree Undergraduate student at the Center for Excellence
 ## Research Internships 🧪
 
 <p align="center">
-  <img src="images/msr_logo.png" alt="Microsoft Logo" width="75"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/msr_logo.png" alt="Microsoft Logo" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/ucb_logo.png" alt="UC Berkeley Logo" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/uiuc_logo.png" alt="UIUC Logo" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/utd_logo.png" alt="UT Dallas Logo" width="75"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/iitkgp_logo.png" alt="IIT Kharagpur Logo" width="150"/>
+  <img src="images/iitkgp_logo.png" alt="IIT Kharagpur Logo" width="75"/>
 </p>
 
 ## News 🏆📚
