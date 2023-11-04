@@ -13,16 +13,7 @@ I am a Fifth-year Dual Degree Undergraduate student at the Center for Excellence
 
 If you have any ideas that you would like to collaborate on, hit me up!
 
-## Research Interests
 
-My research interests lie majorly in the following broad domains:
-
-- Natural Language Processing
-- Large Language Models
-  - Multimodality
-  - Reasoning
-  - Hallucinations
-  - Evaluation
 
 ## Publications 📚
 
@@ -33,13 +24,12 @@ My research interests lie majorly in the following broad domains:
 ## Research Internships 🧪
 
 <p align="center">
-  <img src="images/uiuc_logo.png" alt="UIUC Logo" width="100"/>
-  <img src="images/ucb_logo.png" alt="UC Berkeley Logo" width="100"/>
-  <img src="images/utd_logo.png" alt="UT Dallas Logo" width="100"/>
-  <img src="images/iitkgp_logo.png" alt="IIT Kharagpur Logo" width="100"/>
+  <img src="images/uiuc_logo.png" alt="UIUC Logo" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/ucb_logo.png" alt="UC Berkeley Logo" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/utd_logo.png" alt="UT Dallas Logo" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/iitkgp_logo.png" alt="IIT Kharagpur Logo" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/msr_logo.png" alt="Microsoft Logo" width="100"/>
-</p> 
-
+</p>
 
 ## News 🏆📚
 
@@ -57,33 +47,41 @@ My research interests lie majorly in the following broad domains:
 
 
 ## Research Experience
+### 📊 Automatic Evaluation Framework for Language Generation using LLMs [August 2023 - Present]
+- **University of Texas, Dallas**: Proposed a 2-stage evaluation framework with a group of LLMs like Llama 2, GPT-4, Falcon, etc., for automatic evaluation of NLG. The proposed framework is a zero-shot solution, which can be the next SOTA and correlate better with human evaluation.
 
-### August 2023 - Present
-- **Automatic Evaluation Framework for Language Generation using LLMs**: Proposed a 2-stage evaluation framework with a group of LLMs like Llama 2, GPT-4, Falcon, etc., for automatic evaluation of NLG. The proposed framework is a zero-shot solution, which can be the next SOTA and correlate better with human evaluation.
+### 📑 Event Extraction using Large Language Models [October 2023 - Present]
+- **University of Texas, Dallas**: Leading a research project focusing on document-level event extraction with Large Language Models.
 
-### October 2023 - Present
-- **Event Extraction using Large Language Models**: Leading a research project focusing on document-level event extraction with Large Language Models at the University of Texas, Dallas.
+### 📚 Citation Integrity [June 2023 - September 2023]
+- **University of Illinois at Urbana-Champaign**: Developed a new dataset, examined the integrity of citations, and classified them into categories, such as "irrelevant citation," while also extracting evidence from the cited papers.
 
-### June 2023 - September 2023
-- **Citation Integrity**: Developed a new dataset, examined the integrity of citations, and classified them into categories, such as "irrelevant citation," while also extracting evidence from the cited papers at the University of Illinois at Urbana-Champaign.
+### 🌐 Machine Translation using Large Language Models [May 2023 - September 2023]
+- **University of California, Berkeley**: Curated and augmented 500K lines of machine translation data, further enriched with synthetic generation from LLMs.
 
-### May 2023 - September 2023
-- **Machine Translation using Large Language Models**: Curated and augmented 500K lines of machine translation data, further enriched with synthetic generation from LLMs at the University of California, Berkeley.
+### 🚦 Compressing Yolo Object Detection using NN-LUT [August 2023 - September 2023]
+- **Indian Institute of Technology, Kharagpur**: Developed a pedestrian detection system with YOLOv4 architecture, trained on the EuroCity Persons dataset.
 
-### August 2023 - September 2023
-- **Compressing Yolo Object Detection using NN-LUT**: Developed a pedestrian detection system with YOLOv4 architecture, trained on the EuroCity Persons dataset at COEAI, IIT Kharagpur.
+### 🧩 Nested Compound Parsing and Type Identification [December 2022 - April 2023]
+- **Indian Institute of Technology, Kharagpur**: Introduced a novel task focused on identifying correct parsing and semantic relations between components of compounds in Sanskrit.
 
-### December 2022 - April 2023
-- **Nested Compound Parsing and Type Identification**: Introduced a novel task focused on identifying correct parsing and semantic relations between components of compounds in Sanskrit for my Bachelor's Thesis-II.
+### 💡 Commonsense Injection to Multimodal Reasoning Models [February 2023 - April 2023]
+- **Indian Institute of Technology, Kharagpur**: Mitigated common sense mistakes made by the Multimodal Chain-of-Thought reasoning in language models by incorporating commonsense knowledge via knowledge graphs.
 
-### February 2023 - April 2023
-- **Commonsense Injection to Multimodal Reasoning Models**: Mitigated common sense mistakes made by the Multimodal Chain-of-Thought reasoning in language models by incorporating commonsense knowledge via knowledge graphs into the model for my AI Design Lab Term paper.
+### ❓ Asking Clarifying Questions for Dialogue Systems [February 2023 - April 2023]
+- **Indian Institute of Technology, Kharagpur**: Focused on Asking Clarifying Questions in an open-domain language system, encompassing two subtasks: determining when to ask a clarifying question and which question to ask.
 
-### February 2023 - April 2023
-- **Asking Clarifying Questions for Dialogue Systems**: Focused on Asking Clarifying Questions in an open-domain language system, encompassing two subtasks: determining when to ask a clarifying question and which question to ask for my NLP Term Paper.
-
-### August 2022 - November 2022
-- **Semantic Tag Recommendation Framework for Quotes**: Predicted various relevant tags from a list of 39,000 available categories for a given Quote and used the context of each Quote as well for my Bachelor's Thesis-I.
-
+### 🏷️ Semantic Tag Recommendation Framework for Quotes [August 2022 - November 2022]
+- **Indian Institute of Technology, Kharagpur**: Predicted various relevant tags from a list of 39,000 available categories for a given Quote and used the context of each Quote as well.
 
 
+## Research Interests
+
+My research interests lie majorly in the following broad domains:
+
+- Natural Language Processing
+- Large Language Models
+  - Multimodality
+  - Reasoning
+  - Hallucinations
+  - Evaluation
