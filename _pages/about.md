@@ -31,18 +31,16 @@ If you have any ideas that you would like to collaborate on, hit me up!
 </p>
 
 ## News 🏆📚
-
-- **[Apr 2023] EMNLP 2023**: First author long paper got accepted at EMNLP 2023 (Findings).
-- **[Sep 2023] Master's Thesis Grant**: Secured a $20,000 grant from [Microsoft's Foundation Models Research](https://www.microsoft.com/en-us/research/collaboration/accelerating-foundation-models-research/phase-ii/) initiative for my masters thesis in Large Language Models. 🤖
-- **[Sep 2023] Masters Selection list**: Achieved 17th rank out of 1600 3rd-year students in the selection for Masters in Artificial Intelligence and Machine Learning at IIT Kharagpur. 🎓
-- **[Sept 2023] EMNLP 2023**: Served as a Student Paper Reviewer. 🔍
-- **[Aug - Nov 2023] Artificial Intelligence Foundations and Applications**: Worked as a Teaching Assistant for the course in 2023. 👨‍🏫
-- **[Apr 2023] Best Bachelor's Thesis Award**: Received the highest grade in the entire Computer Science Department for my Bachelor's thesis. 🥇
-- **[Apr 2023] Best Term Paper**: Awarded for the courses "Natural Language Processing", "AI Design Lab", and "AI Foundations & Applications". 📝
-- **NLP Reading Group**: Co-founded the Natural Language Processing Reading Group. 📖
-- **Machine and Deep Learning Summer Schools**: Acted as a Co-Instructor for summer schools at IIT Kharagpur in 2021 and 2022. ☀️
-- **Mentorship**: Provided guidance and mentorship to 8 students over 2 years. 👥
-
+- <span style="color:blue">**[Apr 2023]**</span> EMNLP 2023: First author long paper got accepted at EMNLP 2023 (Findings).
+- <span style="color:blue">**[Sep 2023]**</span> Master's Thesis Grant: Secured a $20,000 grant from [Microsoft's Foundation Models Research](https://www.microsoft.com/en-us/research/collaboration/accelerating-foundation-models-research/phase-ii/) initiative for my masters thesis in Large Language Models. 🤖
+- <span style="color:blue">**[Sep 2023]**</span> Masters Selection list: Achieved 17th rank out of 1600 3rd-year students in the selection for Masters in Artificial Intelligence and Machine Learning at IIT Kharagpur. 🎓
+- <span style="color:blue">**[Sept 2023]**</span> EMNLP 2023: Served as a Student Paper Reviewer. 🔍
+- <span style="color:blue">**[Aug - Nov 2023]**</span> Artificial Intelligence Foundations and Applications: Worked as a Teaching Assistant for the course in 2023. 👨‍🏫
+- <span style="color:blue">**[Apr 2023]**</span> Best Bachelor's Thesis Award: Received the highest grade in the entire Computer Science Department for my Bachelor's thesis. 🥇
+- <span style="color:blue">**[Apr 2023]**</span> Best Term Paper: Awarded for the courses "Natural Language Processing", "AI Design Lab", and "AI Foundations & Applications". 📝
+- NLP Reading Group: Co-founded the Natural Language Processing Reading Group. 📖
+- Machine and Deep Learning Summer Schools: Acted as a Co-Instructor for summer schools at IIT Kharagpur in 2021 and 2022. ☀️
+- Mentorship: Provided guidance and mentorship to 8 students over 2 years. 👥
 
 ## Research Experience
 ### 📊 Automatic Evaluation Framework for Language Generation using LLMs [August 2023 - Present]
