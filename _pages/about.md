@@ -41,31 +41,33 @@ I am a Fifth-year Dual Degree Undergraduate student at the Center for Excellence
 - Mentorship: Provided guidance and mentorship to 8 students over 2 years. 👥
 
 ## Research Experience
-### 📊 Automatic Evaluation Framework for Language Generation using LLMs <span style="color:blue">[August 2023 - Present]</span>
+
+## Research Experience
+### 📊 Automatic Evaluation Framework for Language Generation using LLMs [August 2023 - Present]
 - **Microsoft Research India**: Proposed a 2-stage evaluation framework with a group of LLMs like Llama 2, GPT-4, Falcon, etc., for automatic evaluation of NLG. The proposed framework is a zero-shot solution, which can be the next SOTA and correlate better with human evaluation.
 
-### 📑 Event Extraction using Large Language Models <span style="color:blue">[October 2023 - Present]</span>
+### 📑 Event Extraction using Large Language Models [October 2023 - Present]
 - **University of Texas, Dallas**: Leading a research project focusing on document-level event extraction with Large Language Models.
 
-### 📚 Citation Integrity <span style="color:blue">[June 2023 - September 2023]</span>
+### 📚 Citation Integrity [June 2023 - September 2023]
 - **University of Illinois at Urbana-Champaign**: Developed a new dataset, examined the integrity of citations, and classified them into categories, such as "irrelevant citation," while also extracting evidence from the cited papers.
 
-### 🌐 Machine Translation using Large Language Models <span style="color:blue">[May 2023 - Sept 2023]</span>
+### 🌐 Machine Translation using Large Language Models [May 2023 - Sept 2023]
 - **University of California, Berkeley**: Enhanced 500K lines of machine translation data with synthetic generation from LLMs, employing Google-OCR, BERT-based aligners, and Sandhi splitting techniques. Notably increased BLEU scores by 10% using the "No Language Left Behind" (NLLB) model and advanced post-processing methods.
 
-### 🚦 Compressing Yolo Object Detection using NN-LUT <span style="color:blue">[August 2023 - September 2023]</span>
+### 🚦 Compressing Yolo Object Detection using NN-LUT [August 2023 - September 2023]
 - **Indian Institute of Technology, Kharagpur**: Developed a pedestrian detection system with YOLOv4 architecture, trained on the EuroCity Persons dataset.
 
-### 🧩 Nested Compound Parsing and Type Identification <span style="color:blue">[December 2022 - April 2023]</span>
+### 🧩 Nested Compound Parsing and Type Identification [December 2022 - April 2023]
 - **Indian Institute of Technology, Kharagpur**: Introduced a novel task focused on identifying correct parsing and semantic relations between components of compounds in Sanskrit.
 
-### 💡 Commonsense Injection to Multimodal Reasoning Models <span style="color:blue">[February 2023 - April 2023]</span>
+### 💡 Commonsense Injection to Multimodal Reasoning Models [February 2023 - April 2023]
 - **Indian Institute of Technology, Kharagpur**: Mitigated common sense mistakes made by the Multimodal Chain-of-Thought reasoning in language models by incorporating commonsense knowledge via knowledge graphs.
 
-### ❓ Asking Clarifying Questions for Dialogue Systems <span style="color:blue">[February 2023 - April 2023]</span>
+### ❓ Asking Clarifying Questions for Dialogue Systems [February 2023 - April 2023]
 - **Indian Institute of Technology, Kharagpur**: Focused on Asking Clarifying Questions in an open-domain language system, encompassing two subtasks: determining when to ask a clarifying question and which question to ask.
 
-### 🏷️ Semantic Tag Recommendation Framework for Quotes <span style="color:blue">[August 2022 - November 2022]</span>
+### 🏷️ Semantic Tag Recommendation Framework for Quotes [August 2022 - November 2022]
 - **Indian Institute of Technology, Kharagpur**: Predicted various relevant tags from a list of 39,000 available categories for a given Quote and used the context of each Quote as well.
 
 
