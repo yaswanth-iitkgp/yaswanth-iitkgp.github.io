@@ -24,11 +24,11 @@ If you have any ideas that you would like to collaborate on, hit me up!
 ## Research Internships 🧪
 
 <p align="center">
-  <img src="images/uiuc_logo.png" alt="UIUC Logo" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/ucb_logo.png" alt="UC Berkeley Logo" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/uiuc_logo.png" alt="UIUC Logo" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/ucb_logo.png" alt="UC Berkeley Logo" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/utd_logo.png" alt="UT Dallas Logo" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/iitkgp_logo.png" alt="IIT Kharagpur Logo" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/msr_logo.png" alt="Microsoft Logo" width="100"/>
+  <img src="images/msr_logo.png" alt="Microsoft Logo" width="150"/>
 </p>
 
 ## News 🏆📚
