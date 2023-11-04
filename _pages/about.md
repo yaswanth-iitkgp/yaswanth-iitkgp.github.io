@@ -89,4 +89,4 @@ My research interests lie majorly in the following broad domains:
 - **🏀 Basketball & 🏐 Volleyball**: Whether it's shooting hoops or spiking the ball, I love staying active and playing sports in my free time.
 - **👨‍🍳 Cooking & 🌎 Travelling**: Exploring new cuisines and cultures is my passion. I find joy in cooking up a storm in the kitchen and embarking on culinary adventures.
 - **🧘‍♂️ Meditation**: In the midst of life's hustle and bustle, I find peace and rejuvenation through meditation. It's my way of staying grounded and mindful.
-- **🎓 High School Captain**: I took on the mantle of leadership in high school, guiding and inspiring my peers as the school captain.
+- **🧢 High School Captain**: I took on the mantle of leadership in high school, guiding and inspiring my peers as the school captain.
