@@ -30,7 +30,7 @@ I am a Fifth-year Dual Degree Undergraduate student at the Center for Excellence
 
 ## News 🏆📚
 - <span style="color:blue">[Oct 2023]</span> **Azure A100 Deployment**: Launched my first A100 (80GB GPU) Server on Azure with 220GB RAM and 24 vCPUs. 🚀 
-- <span style="color:blue">[Oct 2023]</span> **EMNLP 2023**: First author long paper got accepted at EMNLP 2023 (Findings). 🎉
+- <span style="color:blue">[Oct 2023]</span> **EMNLP 2023**: First author long paper accepted at EMNLP 2023 (Findings). 🎉
 - <span style="color:blue">[Sep 2023]</span> **Master's Thesis Grant**: Secured a $20,000 grant from [Microsoft's Foundation Models Research](https://www.microsoft.com/en-us/research/collaboration/accelerating-foundation-models-research/phase-ii/) initiative for my masters thesis in Large Language Models. 🤖
 - <span style="color:blue">[Sep 2023]</span> **EMNLP 2023**: Served as a Student Paper Reviewer. 🔍
 - <span style="color:blue">[Aug - Nov 2023]</span> **Artificial Intelligence Foundations and Applications**: Worked as a Teaching Assistant for the course in 2023. 👨‍🏫
