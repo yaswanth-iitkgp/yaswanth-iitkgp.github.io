@@ -32,7 +32,7 @@ If you have any ideas that you would like to collaborate on, hit me up!
 
 ## News 🏆📚
 
-- **[Apr 2023] EMNLP2023 Paper Accepted**: First author paper got accepted at EMNLP 2023.
+- **[Apr 2023] EMNLP 2023**: First author long paper got accepted at EMNLP 2023 (Findings).
 - **[Sep 2023] Master's Thesis Grant**: Secured a $20,000 grant from Microsoft's Foundation Models Research initiative for my work on Large Language Models. 🤖
 - **[Sep 2023] Masters Selection list**: Achieved 17th rank out of 1600 3rd-year students in the selection for Masters in Artificial Intelligence and Machine Learning at IIT Kharagpur. 🎓
 - **[Sept 2023] EMNLP 2023**: Served as a Student Paper Reviewer. 🔍
