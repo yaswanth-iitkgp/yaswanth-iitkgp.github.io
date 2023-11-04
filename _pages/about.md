@@ -24,7 +24,7 @@ If you have any ideas that you would like to collaborate on, hit me up!
 ## Research Internships 🧪
 
 <p align="center">
-  <img src="images/uiuc_logo.png" alt="UIUC Logo" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/uiuc_logo.png" alt="UIUC Logo" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/ucb_logo.png" alt="UC Berkeley Logo" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/utd_logo.png" alt="UT Dallas Logo" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/iitkgp_logo.png" alt="IIT Kharagpur Logo" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -48,7 +48,7 @@ If you have any ideas that you would like to collaborate on, hit me up!
 
 ## Research Experience
 ### 📊 Automatic Evaluation Framework for Language Generation using LLMs [August 2023 - Present]
-- **University of Texas, Dallas**: Proposed a 2-stage evaluation framework with a group of LLMs like Llama 2, GPT-4, Falcon, etc., for automatic evaluation of NLG. The proposed framework is a zero-shot solution, which can be the next SOTA and correlate better with human evaluation.
+- **Microsoft Research India**: Proposed a 2-stage evaluation framework with a group of LLMs like Llama 2, GPT-4, Falcon, etc., for automatic evaluation of NLG. The proposed framework is a zero-shot solution, which can be the next SOTA and correlate better with human evaluation.
 
 ### 📑 Event Extraction using Large Language Models [October 2023 - Present]
 - **University of Texas, Dallas**: Leading a research project focusing on document-level event extraction with Large Language Models.
@@ -56,8 +56,8 @@ If you have any ideas that you would like to collaborate on, hit me up!
 ### 📚 Citation Integrity [June 2023 - September 2023]
 - **University of Illinois at Urbana-Champaign**: Developed a new dataset, examined the integrity of citations, and classified them into categories, such as "irrelevant citation," while also extracting evidence from the cited papers.
 
-### 🌐 Machine Translation using Large Language Models [May 2023 - September 2023]
-- **University of California, Berkeley**: Curated and augmented 500K lines of machine translation data, further enriched with synthetic generation from LLMs.
+### 🌐 Machine Translation using Large Language Models [May 2023 - Sept 2023]
+- **University of California, Berkeley**: Enhanced 500K lines of machine translation data with synthetic generation from LLMs, employing Google-OCR, BERT-based aligners, and Sandhi splitting techniques. Notably increased BLEU scores by 10% using the "No Language Left Behind" (NLLB) model and advanced post-processing methods.
 
 ### 🚦 Compressing Yolo Object Detection using NN-LUT [August 2023 - September 2023]
 - **Indian Institute of Technology, Kharagpur**: Developed a pedestrian detection system with YOLOv4 architecture, trained on the EuroCity Persons dataset.
