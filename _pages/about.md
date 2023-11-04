@@ -39,7 +39,7 @@ If you have any ideas that you would like to collaborate on, hit me up!
 - **[Sept 2023] EMNLP 2023**: Served as a Student Paper Reviewer, contributing to the advancement of research in the field of Natural Language Processing. 🔍
 - **[Aug - Nov 2023] Artificial Intelligence Foundations and Applications**: Worked as a Teaching Assistant in 2023, helping to shape the next generation of AI enthusiasts. 👨‍🏫
 - **[Apr 2023] Best Bachelor's Thesis Award**: Received the highest grade in the entire Computer Science Department for my Bachelor's thesis. 🥇
-- **[Apr 2023] Best Term Paper**: Awarded for "Natural Language Processing", "AI Design Lab", and "AI Foundations & Applications". 📝
+- **[Apr 2023] Best Term Paper**: Awarded for the courses "Natural Language Processing", "AI Design Lab", and "AI Foundations & Applications". 📝
 - **NLP Reading Group**: Co-founded the Natural Language Processing Reading Group at IIT Kharagpur, fostering a community of learners and researchers. 📖
 - **Machine and Deep Learning Summer Schools**: Acted as a Co-Instructor for summer schools at IIT Kharagpur in 2021 and 2022, delivering knowledge on cutting-edge technologies. ☀️
 - **Mentorship**: Provided guidance and mentorship to 8 students over 2 years, aiding them in their Machine Learning journeys. 👥
