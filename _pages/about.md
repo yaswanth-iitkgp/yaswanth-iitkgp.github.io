@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration](/images/LLM.jpeg){: .align-right width="200px"}
-I am a Fifth-year Dual Degree Undergraduate student at the Center for Excellence in Artificial Intelligence , Indian Institute of Technology Kharagpur. I am also an undergraduate researcher at the  [Complex Networks Research Group](https://cnerg-iitkgp.github.io/), IIT Kharagpur under the supervision of  [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/) for the past 1.5 years.
-
-If you have any ideas that you would like to collaborate on, hit me up!
+![Illustration](/images/LLM.jpeg){: .align-right width="150px"}
+I am a Fifth-year Dual Degree Undergraduate student at the Center for Excellence in Artificial Intelligence , Indian Institute of Technology Kharagpur. I am also an undergraduate researcher at the  [Complex Networks Research Group](https://cnerg-iitkgp.github.io/), IIT Kharagpur under the supervision of  [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/) for the past 1.5 years. If you have any ideas that you would like to collaborate on, hit me up!
 
 
 
@@ -43,41 +41,50 @@ If you have any ideas that you would like to collaborate on, hit me up!
 - Mentorship: Provided guidance and mentorship to 8 students over 2 years. 👥
 
 ## Research Experience
-### 📊 Automatic Evaluation Framework for Language Generation using LLMs [August 2023 - Present]
+### 📊 Automatic Evaluation Framework for Language Generation using LLMs <span style="color:blue">[August 2023 - Present]</span>
 - **Microsoft Research India**: Proposed a 2-stage evaluation framework with a group of LLMs like Llama 2, GPT-4, Falcon, etc., for automatic evaluation of NLG. The proposed framework is a zero-shot solution, which can be the next SOTA and correlate better with human evaluation.
 
-### 📑 Event Extraction using Large Language Models [October 2023 - Present]
+### 📑 Event Extraction using Large Language Models <span style="color:blue">[October 2023 - Present]</span>
 - **University of Texas, Dallas**: Leading a research project focusing on document-level event extraction with Large Language Models.
 
-### 📚 Citation Integrity [June 2023 - September 2023]
+### 📚 Citation Integrity <span style="color:blue">[June 2023 - September 2023]</span>
 - **University of Illinois at Urbana-Champaign**: Developed a new dataset, examined the integrity of citations, and classified them into categories, such as "irrelevant citation," while also extracting evidence from the cited papers.
 
-### 🌐 Machine Translation using Large Language Models [May 2023 - Sept 2023]
+### 🌐 Machine Translation using Large Language Models <span style="color:blue">[May 2023 - Sept 2023]</span>
 - **University of California, Berkeley**: Enhanced 500K lines of machine translation data with synthetic generation from LLMs, employing Google-OCR, BERT-based aligners, and Sandhi splitting techniques. Notably increased BLEU scores by 10% using the "No Language Left Behind" (NLLB) model and advanced post-processing methods.
 
-### 🚦 Compressing Yolo Object Detection using NN-LUT [August 2023 - September 2023]
+### 🚦 Compressing Yolo Object Detection using NN-LUT <span style="color:blue">[August 2023 - September 2023]</span>
 - **Indian Institute of Technology, Kharagpur**: Developed a pedestrian detection system with YOLOv4 architecture, trained on the EuroCity Persons dataset.
 
-### 🧩 Nested Compound Parsing and Type Identification [December 2022 - April 2023]
+### 🧩 Nested Compound Parsing and Type Identification <span style="color:blue">[December 2022 - April 2023]</span>
 - **Indian Institute of Technology, Kharagpur**: Introduced a novel task focused on identifying correct parsing and semantic relations between components of compounds in Sanskrit.
 
-### 💡 Commonsense Injection to Multimodal Reasoning Models [February 2023 - April 2023]
+### 💡 Commonsense Injection to Multimodal Reasoning Models <span style="color:blue">[February 2023 - April 2023]</span>
 - **Indian Institute of Technology, Kharagpur**: Mitigated common sense mistakes made by the Multimodal Chain-of-Thought reasoning in language models by incorporating commonsense knowledge via knowledge graphs.
 
-### ❓ Asking Clarifying Questions for Dialogue Systems [February 2023 - April 2023]
+### ❓ Asking Clarifying Questions for Dialogue Systems <span style="color:blue">[February 2023 - April 2023]</span>
 - **Indian Institute of Technology, Kharagpur**: Focused on Asking Clarifying Questions in an open-domain language system, encompassing two subtasks: determining when to ask a clarifying question and which question to ask.
 
-### 🏷️ Semantic Tag Recommendation Framework for Quotes [August 2022 - November 2022]
+### 🏷️ Semantic Tag Recommendation Framework for Quotes <span style="color:blue">[August 2022 - November 2022]</span>
 - **Indian Institute of Technology, Kharagpur**: Predicted various relevant tags from a list of 39,000 available categories for a given Quote and used the context of each Quote as well.
 
 
-## Research Interests
+## 🧠 Research Interests
 
 My research interests lie majorly in the following broad domains:
 
-- Natural Language Processing
-- Large Language Models
-  - Multimodality
-  - Reasoning
-  - Hallucinations
-  - Evaluation
+- 📝 Natural Language Processing
+- 🤖 Large Language Models
+  - 🖼️ Multimodality
+  - 🧐 Reasoning
+  - 💭 Hallucinations
+  - ✅ Evaluation
+
+
+## 🎉 Hobbies & Interests
+
+- **♟️ Chess Enthusiast**: I'm an avid chess player and have won multiple district-level tournaments. Fancy a game? Find me on chess.com and let's play!
+- **🏀 Basketball & 🏐 Volleyball**: Whether it's shooting hoops or spiking the ball, I love staying active and playing sports in my free time.
+- **👨‍🍳 Cooking & 🌎 Travelling**: Exploring new cuisines and cultures is my passion. I find joy in cooking up a storm in the kitchen and embarking on culinary adventures.
+- **🧘‍♂️ Meditation**: In the midst of life's hustle and bustle, I find peace and rejuvenation through meditation. It's my way of staying grounded and mindful.
+- **🎓 High School Captain**: I took on the mantle of leadership in high school, guiding and inspiring my peers as the school captain.
