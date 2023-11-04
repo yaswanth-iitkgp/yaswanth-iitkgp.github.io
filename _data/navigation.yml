@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  #- title: "Talks"
+  #  url: /talks/    
+
+  #- title: "Research Experience"
+  #  url: /teaching/    
+    
+  #- title: "Portfolio"
+  #  url: /portfolio/
+        
+  #- title: "Blog Posts"
+  #  url: /year-archive/
+    
+  - title: "CV"
+    url: https://drive.google.com/file/d/1Jo41gpubQL2ytIFPeDmpUrRotdPlWugU/view?usp=sharing
+    
+  #- title: "Guide"
+  #  url: /markdown/
