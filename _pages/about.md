@@ -84,6 +84,12 @@ My research interests lie majorly in the following broad domains:
   - ✅ Evaluation
 
 
+## ✍️ Blog Posts
+
+- **[Creating Automatic Knowledge Graphs from Pre-trained Language Models](https://medium.com/@yaswanth-iitkgp/creating-automatic-knowledge-graphs-from-pre-trained-language-models-0da963ffc67c)**: Dive into the process of generating knowledge graphs using the power of pre-trained language models.
+
+
+
 ## 🎉 Hobbies & Interests
 
 - **♟️ Chess Enthusiast**: I'm an avid chess player and have won multiple district-level tournaments. Fancy a game? Find me on chess.com and let's play!
