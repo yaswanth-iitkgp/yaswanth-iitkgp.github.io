@@ -16,7 +16,7 @@ I am a Fifth-year Dual Degree Undergraduate student at the Center for Excellence
 ## Publications 📚
 
 - **DepNeCTI: Dependency-based Nested Compound Type Identification for Sanskrit**  
-  *First Author  Long Paper*, Accepted at EMNLP 2023 (Findings) 📄 [Read More](https://arxiv.org/abs/2310.09501)
+  *First Author  Long Paper*, Accepted at EMNLP 2023 (Findings) 📄 [Paper](https://arxiv.org/abs/2310.09501) [Code](https://github.com/yaswanth-iitkgp/DepNeCTI)
 
 ## Research Internships 🧪
 
@@ -48,7 +48,7 @@ I am a Fifth-year Dual Degree Undergraduate student at the Center for Excellence
 - **Microsoft Research India**: Proposed a 2-stage evaluation framework with a group of LLMs like Llama 2, GPT-4, Falcon, etc., for automatic evaluation of NLG. The proposed framework is a zero-shot solution, which can be the next SOTA and correlate better with human evaluation.
 
 ### 📑 Event Extraction using Large Language Models [October 2023 - Present]
-- **University of Texas, Dallas**: Leading a research project focusing on document-level and sentence-level event extraction with various Large Language Models and GPT-3.5, GPT-4.
+- **University of Texas, Dallas**: Leading a research project focusing on document-level and sentence-level event extraction with GPT-3.5, GPT-4 and various open source Large Language Models.
 
 ### 📚 Citation Integrity [June 2023 - September 2023]
 - **University of Illinois at Urbana-Champaign**: Developed a new dataset, examined the integrity of citations, and classified them into categories, such as "irrelevant citation," while also extracting evidence from the cited papers.
@@ -57,13 +57,13 @@ I am a Fifth-year Dual Degree Undergraduate student at the Center for Excellence
 - **University of California, Berkeley**: Enhanced 500K lines of machine translation data with synthetic generation from LLMs, employing Google-OCR, BERT-based aligners, and Sandhi splitting techniques. Notably increased BLEU scores by 10% using the "No Language Left Behind" (NLLB) model and advanced post-processing methods.
 
 ### 🚦 Compressing Yolo Object Detection using NN-LUT [August 2023 - September 2023]
-- **Indian Institute of Technology, Kharagpur**: Developed a pedestrian detection system with YOLOv4 architecture, trained on the EuroCity Persons dataset.
+- **Indian Institute of Technology, Kharagpur**: Developed a pedestrian detection system with YOLOv4 architecture, trained on the EuroCity Persons dataset and compressed the model using Neural Network based Look up table for self driving cars. Also deployed a GRU model with autoencoder for intrusion detection using CAN dataset.
 
 ### 🧩 Nested Compound Parsing and Type Identification [December 2022 - April 2023]
-- **Indian Institute of Technology, Kharagpur**: Introduced a novel task focused on identifying correct parsing and semantic relations between components of compounds in Sanskrit.
+- **Indian Institute of Technology, Kharagpur**: Introduced a novel task, dataset and framework focused on identifying correct parsing and semantic relations between components of compounds in Sanskrit.
 
 ### 💡 Commonsense Injection to Multimodal Reasoning Models [February 2023 - April 2023]
-- **Indian Institute of Technology, Kharagpur**: Mitigated common sense mistakes made by the Multimodal Chain-of-Thought reasoning in language models by incorporating commonsense knowledge via knowledge graphs.
+- **Indian Institute of Technology, Kharagpur**: Proposed a method to mitigate common sense mistakes made by the Multimodal Chain-of-Thought reasoning in language models by incorporating commonsense knowledge via knowledge graphs.
 
 ### ❓ Asking Clarifying Questions for Dialogue Systems [February 2023 - April 2023]
 - **Indian Institute of Technology, Kharagpur**: Focused on Asking Clarifying Questions in an open-domain language system, encompassing two subtasks: determining when to ask a clarifying question and which question to ask.
