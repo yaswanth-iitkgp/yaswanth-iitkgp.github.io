@@ -16,7 +16,7 @@ I am a Fifth-year Dual Degree Undergraduate student at the Center for Excellence
 ## Publications 📚
 
 - **DepNeCTI: Dependency-based Nested Compound Type Identification for Sanskrit**  
-  *First Author  Long Paper*, Accepted at EMNLP 2023 (Findings) 📄 [Paper](https://arxiv.org/abs/2310.09501) [Code](https://github.com/yaswanth-iitkgp/DepNeCTI)
+  *First Author  Long Paper*, Accepted at EMNLP 2023 (Findings) 📄 [[Paper]](https://arxiv.org/abs/2310.09501), [[Code]](https://github.com/yaswanth-iitkgp/DepNeCTI)
 
 ## Research Internships 🧪
 
