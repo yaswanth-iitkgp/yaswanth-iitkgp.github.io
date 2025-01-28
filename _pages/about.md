@@ -30,7 +30,6 @@ I am a graduate researcher who is working on Language Models and I did my underg
 ## Research Internships 🧪
 
 <p align="center">
-  <img src="images/waterloo_logo.png" alt="Waterloo Logo" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/msr_logo.png" alt="Microsoft Logo" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/ucb_logo.png" alt="UC Berkeley Logo" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/uiuc_logo.png" alt="UIUC Logo" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,8 +38,8 @@ I am a graduate researcher who is working on Language Models and I did my underg
 </p>
 
 ## News 🏆📚
+
 - <span style="color:blue">[Apr 2024]</span> **Waterloo Research**: Started research internship at University of Waterloo's TIGER Lab. 🎓
-- <span style="color:blue">[Jan 2024]</span> **ICLR 2025**: Submitted paper on Review-Feedback-Reason framework. 📝
 - <span style="color:blue">[Dec 2023]</span> **Grant Increase**: Microsoft Research doubled our grant to $40,000! 🎉
 - <span style="color:blue">[Oct 2023]</span> **Azure A100 Deployment**: Launched A100 (80GB GPU) Server on Azure with 220GB RAM. 🚀
 - <span style="color:blue">[Oct 2023]</span> **EMNLP 2023**: First author paper accepted at EMNLP 2023 (Findings). 🎉
