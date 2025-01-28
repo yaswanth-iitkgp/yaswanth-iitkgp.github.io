@@ -9,18 +9,28 @@ redirect_from:
 ---
 
 ![Illustration](/images/LLM.jpeg){: .align-right width="150px"}
-I am a Fifth-year Dual Degree Undergraduate student at the Center for Excellence in Artificial Intelligence , Indian Institute of Technology Kharagpur. I am also an undergraduate researcher at the  [Complex Networks Research Group](https://cnerg-iitkgp.github.io/), IIT Kharagpur under the supervision of  [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/) for the past 1.5 years. If you have any ideas that you would like to collaborate on, hit me up!
-
-
+I am a graduate researcher who is working on Language Models and I did my undergrad and masters from the Center for Excellence in Artificial Intelligence , Indian Institute of Technology Kharagpur. I was also an undergraduate researcher at the  [Complex Networks Research Group](https://cnerg-iitkgp.github.io/), IIT Kharagpur under the supervision of  [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/) for the past 3 years. If you have any ideas that you would like to collaborate on, hit me up!
 
 ## Publications 📚
 
-- **DepNeCTI: Dependency-based Nested Compound Type Identification for Sanskrit**  
-  *First Author  Long Paper*, Accepted at EMNLP 2023 (Findings) 📄 [[Paper]](https://arxiv.org/abs/2310.09501), [[Code]](https://github.com/yaswanth-iitkgp/DepNeCTI)
+- **[Review-Feedback-Reason (ReFeR): Improving Evaluation and Reasoning through Hierarchy of Models](https://arxiv.org/abs/2407.12877)**  
+  *First Author Long Paper*, Under Review at ICLR 2025 (Accepted at 2 NeurIPS 2024 workshops)
+
+- **[DepNeCTI: Dependency-based Nested Compound Type Identification for Sanskrit](https://aclanthology.org/2023.findings-emnlp.914/)**  
+  *First Author Long Paper*, Accepted at EMNLP 2023 (Findings)
+
+- **[II-Bench: An Image Implication Understanding Benchmark for Multimodal LLMs](https://arxiv.org/abs/2406.05862)**  
+  *Accepted as Poster in NeurIPS Workshop 2024*
+
+- **[VideoScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation](https://arxiv.org/abs/2406.15252v2)**  
+  *Accepted at EMNLP 2024*
+
+- **[DPO Kernels: A Semantically-Aware, Kernel-Enhanced, and Divergence-Rich Paradigm](https://arxiv.org/abs/2501.03271)**
 
 ## Research Internships 🧪
 
 <p align="center">
+  <img src="images/waterloo_logo.png" alt="Waterloo Logo" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/msr_logo.png" alt="Microsoft Logo" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/ucb_logo.png" alt="UC Berkeley Logo" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/uiuc_logo.png" alt="UIUC Logo" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,23 +39,22 @@ I am a Fifth-year Dual Degree Undergraduate student at the Center for Excellence
 </p>
 
 ## News 🏆📚
-- <span style="color:blue">[Oct 2023]</span> **Azure A100 Deployment**: Launched my first A100 (80GB GPU) Server on Azure with 220GB RAM and 24 vCPUs. 🚀 
-- <span style="color:blue">[Oct 2023]</span> **EMNLP 2023**: First author long paper accepted at EMNLP 2023 (Findings). 🎉
-- <span style="color:blue">[Sep 2023]</span> **Master's Thesis Grant**: Secured a $20,000 grant from [Microsoft's Foundation Models Research](https://www.microsoft.com/en-us/research/collaboration/accelerating-foundation-models-research/phase-ii/) initiative for my masters thesis in Large Language Models. 🤖
+- <span style="color:blue">[Apr 2024]</span> **Waterloo Research**: Started research internship at University of Waterloo's TIGER Lab. 🎓
+- <span style="color:blue">[Jan 2024]</span> **ICLR 2025**: Submitted paper on Review-Feedback-Reason framework. 📝
+- <span style="color:blue">[Dec 2023]</span> **Grant Increase**: Microsoft Research doubled our grant to $40,000! 🎉
+- <span style="color:blue">[Oct 2023]</span> **Azure A100 Deployment**: Launched A100 (80GB GPU) Server on Azure with 220GB RAM. 🚀
+- <span style="color:blue">[Oct 2023]</span> **EMNLP 2023**: First author paper accepted at EMNLP 2023 (Findings). 🎉
 - <span style="color:blue">[Sep 2023]</span> **EMNLP 2023**: Served as a Student Paper Reviewer. 🔍
-- <span style="color:blue">[Aug - Nov 2023]</span> **Artificial Intelligence Foundations and Applications**: Worked as a Teaching Assistant for the course in 2023. 👨‍🏫
-- <span style="color:blue">[Apr 2023]</span> **Best Bachelor's Thesis Award**: Received the highest grade in the entire Computer Science Department for my Bachelor's thesis. 🥇
-- <span style="color:blue">[Apr 2023]</span> **Best Term Paper**: Awarded for the courses "Natural Language Processing", "AI Design Lab", and "AI Foundations & Applications". 📝
-- <span style="color:blue">[Jul 2022]</span> **Masters Selection**: Achieved 17th rank out of 1600 3rd-year students in the selection for Masters in Artificial Intelligence and Machine Learning at IIT Kharagpur. 🎓
-- <span style="color:blue">[Apr 2021]</span> **E-commerce Website**: Developed an e-commerce website and deployed it on an AWS EC2 server with Amazon S3 for image storage and leveraged AWS Cloudfront for Content Delivery Network (CDN) distribution. 💻 
-- **NLP Reading Group**: Co-founded the Natural Language Processing Reading Group. 📖
-- **Machine and Deep Learning Summer Schools**: Acted as a Co-Instructor for summer schools at IIT Kharagpur in 2021 and 2022. ☀️
-- **Mentorship**: Provided guidance and mentorship to 8 students over 2 years. 👥
+- <span style="color:blue">[Apr 2023]</span> **Best Thesis Awards**: Received highest grades for both Bachelor's and Master's theses. 🥇
+- <span style="color:blue">[Apr 2023]</span> **Best Term Papers**: Awarded for "Natural Language Processing", "Graph Machine Learning", "AI Design Lab". 📝
 
 ## Research Experience
 
-### 📊 Automatic Evaluation Framework for Language Generation using LLMs [August 2023 - Present]
-- **Microsoft Research India**: Proposed a 2-stage evaluation framework with a group of LLMs like Llama 2, GPT-4, Falcon, etc., for automatic evaluation of NLG. The proposed framework is a zero-shot solution, which can be the next SOTA and correlate better with human evaluation.
+### 🤖 FinAgent: Financial Trading Agent [Apr 2024 - Present]
+- **University of Waterloo**: Developing a multimodal agent for enhanced financial trading and stock portfolio optimization. Created comprehensive dataset of financial news and stock prices for 100 companies.
+
+### 📊 Automatic Evaluation Framework using LLMs [Aug 2023 - Apr 2024]
+- **Microsoft Research India**: Developed a 3-stage evaluation framework with LLM agents (GPT-3.5, Mixtral-8*7b, Gemini-pro) for NLG evaluation. Achieved SOTA correlation with human evaluation.
 
 ### 📑 Event Extraction using Large Language Models [October 2023 - Present]
 - **University of Texas, Dallas**: Leading a research project focusing on document-level and sentence-level event extraction with GPT-3.5, GPT-4 and various open source Large Language Models.
@@ -71,24 +80,20 @@ I am a Fifth-year Dual Degree Undergraduate student at the Center for Excellence
 ### 🏷️ Semantic Tag Recommendation Framework for Quotes [August 2022 - November 2022]
 - **Indian Institute of Technology, Kharagpur**: Predicted various relevant tags from a list of 39,000 available categories for a given Quote and used the context of each Quote as well.
 
-
 ## 🧠 Research Interests
 
-My research interests lie majorly in the following broad domains:
-
-- 📝 Natural Language Processing
 - 🤖 Large Language Models
   - 🖼️ Multimodality
   - 🧐 Reasoning
   - 💭 Hallucinations
+  - 🎯 Reasoning & Planning
+  - 🎮 Agentic Behavior
   - ✅ Evaluation
 
 
 ## ✍️ Blog Posts
 
-- **[Creating Automatic Knowledge Graphs from Pre-trained Language Models](https://medium.com/@yaswanth-iitkgp/creating-automatic-knowledge-graphs-from-pre-trained-language-models-0da963ffc67c)**: Dive into the process of generating knowledge graphs using the power of pre-trained language models.
-
-
+- **[Creating Automatic Knowledge Graphs from Pre-trained Language Models](https://medium.com/@yaswanth-iitkgp/creating-automatic-knowledge-graphs-from-pre-trained-language-models-0da963ffc67c)**
 
 ## 🎉 Hobbies & Interests
 
