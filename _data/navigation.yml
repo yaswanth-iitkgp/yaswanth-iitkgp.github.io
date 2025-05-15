@@ -9,14 +9,14 @@ main:
   #- title: "Research Experience"
   #  url: /teaching/    
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: https://drive.google.com/file/d/1tMFUIL5dxTxf2kxaEG_elRZz5J4Cybtk/view?usp=drive_link
+  #- title: "CV"
+  #  url: https://drive.google.com/file/d/1tMFUIL5dxTxf2kxaEG_elRZz5J4Cybtk/view?usp=drive_link
 
   #- title: "Guide"
   #  url: /markdown/

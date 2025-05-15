@@ -42,6 +42,8 @@ I am a graduate researcher in AI specializing in Large Language Models. I recent
 
 ## News 🏆📚
 
+- <span style="color:blue">[Oct 2024]</span> **Stealth Startup**: Currently building my own AI startup in stealth mode. More details coming soon! 🚀
+- <span style="color:blue">[Jun 2024]</span> **Independent Consulting**: Started freelancing and consulting for startups on AI strategy and implementation. 💼
 - <span style="color:blue">[Apr 2024]</span> **Waterloo Research**: Started research internship at University of Waterloo's TIGER Lab with Prof. Wenhu Chen. 🎓
 - <span style="color:blue">[Jul 2024]</span> **Publications**: Multiple papers accepted at NeurIPS workshops and EMNLP 2024. 📚
 - <span style="color:blue">[Dec 2023]</span> **Grant Increase**: Microsoft Research doubled our grant to $40,000! 🎉
@@ -87,14 +89,22 @@ I am a graduate researcher in AI specializing in Large Language Models. I recent
 
 ## 🚀 Freelance Projects
 
-I have worked on various freelance projects including:
-- Advanced Autonomous RAG Systems
-- Graph-based Agentic Document Processing
-- AI-powered Podcast Systems
-- Specialized LLM Fine-Tuning Pipelines
-- Custom AI Agents for Various Applications
+Since June 2024, I've been providing AI consulting services to startups and enterprises, helping them leverage cutting-edge AI technologies to solve complex problems. My freelance work spans across various domains including RAG systems, agentic AI, and specialized model fine-tuning.
 
-Check out my [CV](/cv/) for a complete list of projects.
+### Recent Projects:
+
+* **Advanced Autonomous RAG System with User Memory and Vector Store**
+* **Graph-Based Intelligent Agentic Document RAG**
+* **Graph-Based ATS System with Advanced LLM Parsing and Ranking Algorithms**
+* **Dual AI Host Podcast System with Live Audience Interaction Capabilities**
+* **E-Commerce Product Review Through Summarizing YouTube Videos**
+* **Perplexity-Inspired Search Engine**
+* **Agentic System for Intelligent Technical Documentation Generation**
+* **AI Fashion Model Generation and Virtual Try-On**
+* **Custom Image Search System for Retail Inventory Management**
+* **LLM-Based Loan Document Compliance Analysis**
+* **Specialized Fine-Tuning Pipeline for LLMs and Vision-Language Models**
+* **Created 30+ AI Agents for Text-To-Action Model**
 
 ## ✍️ Blog Posts
 
