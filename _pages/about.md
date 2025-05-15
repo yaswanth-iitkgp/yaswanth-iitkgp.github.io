@@ -42,7 +42,7 @@ I am a graduate researcher in AI specializing in Large Language Models. I recent
 
 ## News 🏆📚
 
-- <span style="color:blue">[Oct 2024]</span> **Stealth Startup**: Currently building my own AI startup in stealth mode. More details coming soon! 🚀
+- <span style="color:blue">[Apr 2025]</span> **Stealth Startup**: Currently building my own AI startup in stealth mode. More details coming soon! 🚀
 - <span style="color:blue">[Jun 2024]</span> **Independent Consulting**: Started freelancing and consulting for startups on AI strategy and implementation. 💼
 - <span style="color:blue">[Apr 2024]</span> **Waterloo Research**: Started research internship at University of Waterloo's TIGER Lab with Prof. Wenhu Chen. 🎓
 - <span style="color:blue">[Jul 2024]</span> **Publications**: Multiple papers accepted at NeurIPS workshops and EMNLP 2024. 📚
