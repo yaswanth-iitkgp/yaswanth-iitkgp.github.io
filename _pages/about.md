@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 ![Illustration](/images/LLM.jpeg){: .align-right width="150px"}
-I am a graduate researcher who is working on Language Models and I did my undergrad and masters from the Center for Excellence in Artificial Intelligence , Indian Institute of Technology Kharagpur. I was also an undergraduate researcher at the  [Complex Networks Research Group](https://cnerg-iitkgp.github.io/), IIT Kharagpur under the supervision of  [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/) for the past 3 years. If you have any ideas that you would like to collaborate on, hit me up!
+I am a graduate researcher in AI specializing in Large Language Models. I recently completed my Masters from the Center for Excellence in Artificial Intelligence, Indian Institute of Technology Kharagpur. My research focuses on improving reasoning, planning, and agentic behavior in Language Models, as well as pre-training small language models and optimizing test-time compute inference.
 
 ## Publications 📚
 
 - **[Review-Feedback-Reason (ReFeR): Improving Evaluation and Reasoning through Hierarchy of Models](https://arxiv.org/abs/2407.12877)**  
-  *First Author Long Paper*, Under Review at ICLR 2025 (Accepted at 2 NeurIPS 2024 workshops)
+  *First Author Long Paper*, Under Review at TMLR 2025 (Accepted at 2 NeurIPS 2024 workshops)
 
 - **[DepNeCTI: Dependency-based Nested Compound Type Identification for Sanskrit](https://aclanthology.org/2023.findings-emnlp.914/)**  
   *First Author Long Paper*, Accepted at EMNLP 2023 (Findings)
@@ -24,6 +24,9 @@ I am a graduate researcher who is working on Language Models and I did my underg
 
 - **[VideoScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation](https://arxiv.org/abs/2406.15252v2)**  
   *Accepted at EMNLP 2024*
+
+- **[YinYang-Align: Benchmarking Contradictory Objectives and Proposing Multi-Objective Optimization based DPO for Text-to-Image Alignment](https://arxiv.org/abs/2502.03512)**  
+  *Second Author long paper*, Under Review
 
 - **[DPO Kernels: A Semantically-Aware, Kernel-Enhanced, and Divergence-Rich Paradigm](https://arxiv.org/abs/2501.03271)**
 
@@ -39,7 +42,8 @@ I am a graduate researcher who is working on Language Models and I did my underg
 
 ## News 🏆📚
 
-- <span style="color:blue">[Apr 2024]</span> **Waterloo Research**: Started research internship at University of Waterloo's TIGER Lab. 🎓
+- <span style="color:blue">[Apr 2024]</span> **Waterloo Research**: Started research internship at University of Waterloo's TIGER Lab with Prof. Wenhu Chen. 🎓
+- <span style="color:blue">[Jul 2024]</span> **Publications**: Multiple papers accepted at NeurIPS workshops and EMNLP 2024. 📚
 - <span style="color:blue">[Dec 2023]</span> **Grant Increase**: Microsoft Research doubled our grant to $40,000! 🎉
 - <span style="color:blue">[Oct 2023]</span> **Azure A100 Deployment**: Launched A100 (80GB GPU) Server on Azure with 220GB RAM. 🚀
 - <span style="color:blue">[Oct 2023]</span> **EMNLP 2023**: First author paper accepted at EMNLP 2023 (Findings). 🎉
@@ -49,46 +53,48 @@ I am a graduate researcher who is working on Language Models and I did my underg
 
 ## Research Experience
 
-### 🤖 FinAgent: Financial Trading Agent [Apr 2024 - Present]
+### 🤖 FinAgent: Financial Trading Agent [Apr 2024 - June 2024]
 - **University of Waterloo**: Developing a multimodal agent for enhanced financial trading and stock portfolio optimization. Created comprehensive dataset of financial news and stock prices for 100 companies.
 
-### 📊 Automatic Evaluation Framework using LLMs [Aug 2023 - Apr 2024]
-- **Microsoft Research India**: Developed a 3-stage evaluation framework with LLM agents (GPT-3.5, Mixtral-8*7b, Gemini-pro) for NLG evaluation. Achieved SOTA correlation with human evaluation.
+### 📊 Comparing GAN and diffusion-based models for image generation [Feb 2024 - Apr 2024]
+- **IIT Kharagpur**: Conducted comprehensive experiments to compare Generative Adversarial Networks (GANs) and diffusion-based models for image generation.
 
-### 📑 Event Extraction using Large Language Models [October 2023 - Present]
+### 📑 Event Extraction using Large Language Models [October 2023 - January 2024]
 - **University of Texas, Dallas**: Leading a research project focusing on document-level and sentence-level event extraction with GPT-3.5, GPT-4 and various open source Large Language Models.
 
 ### 📚 Citation Integrity [June 2023 - September 2023]
 - **University of Illinois at Urbana-Champaign**: Developed a new dataset, examined the integrity of citations, and classified them into categories, such as "irrelevant citation," while also extracting evidence from the cited papers.
 
-### 🌐 Machine Translation using Large Language Models [May 2023 - Sept 2023]
+### 🌐 Machine Translation using Large Language Models [May 2023 - September 2023]
 - **University of California, Berkeley**: Enhanced 500K lines of machine translation data with synthetic generation from LLMs, employing Google-OCR, BERT-based aligners, and Sandhi splitting techniques. Notably increased BLEU scores by 10% using the "No Language Left Behind" (NLLB) model and advanced post-processing methods.
-
-### 🚦 Compressing Yolo Object Detection using NN-LUT [August 2023 - September 2023]
-- **Indian Institute of Technology, Kharagpur**: Developed a pedestrian detection system with YOLOv4 architecture, trained on the EuroCity Persons dataset and compressed the model using Neural Network based Look up table for self driving cars. Also deployed a GRU model with autoencoder for intrusion detection using CAN dataset.
 
 ### 🧩 Nested Compound Parsing and Type Identification [December 2022 - April 2023]
 - **Indian Institute of Technology, Kharagpur**: Introduced a novel task, dataset and framework focused on identifying correct parsing and semantic relations between components of compounds in Sanskrit.
 
-### 💡 Commonsense Injection to Multimodal Reasoning Models [February 2023 - April 2023]
-- **Indian Institute of Technology, Kharagpur**: Proposed a method to mitigate common sense mistakes made by the Multimodal Chain-of-Thought reasoning in language models by incorporating commonsense knowledge via knowledge graphs.
-
-### ❓ Asking Clarifying Questions for Dialogue Systems [February 2023 - April 2023]
-- **Indian Institute of Technology, Kharagpur**: Focused on Asking Clarifying Questions in an open-domain language system, encompassing two subtasks: determining when to ask a clarifying question and which question to ask.
-
-### 🏷️ Semantic Tag Recommendation Framework for Quotes [August 2022 - November 2022]
-- **Indian Institute of Technology, Kharagpur**: Predicted various relevant tags from a list of 39,000 available categories for a given Quote and used the context of each Quote as well.
-
 ## 🧠 Research Interests
 
 - 🤖 Large Language Models
-  - 🖼️ Multimodality
-  - 🧐 Reasoning
-  - 💭 Hallucinations
-  - 🎯 Reasoning & Planning
-  - 🎮 Agentic Behavior
-  - ✅ Evaluation
+  - 🧐 Reasoning and Planning
+  - 💭 Agentic Behavior
+  - 🔍 Pre-training Small Language Models
+  - ⚡ Test-Time Compute Inference
 
+## 🛠️ Technical Skills
+
+- **Languages**: Python, C++/C, LaTeX
+- **Frameworks/Libraries**: PyTorch, Huggingface, LangChain, langgraph, TensorFlow, Gradio, Wandb, Sklearn, NLTK, Streamlit-UI, FastAPI, Mongo, Postgres, Qdrant
+- **Tools**: Jupyter Notebook, Anaconda, Git, VS Code, Azure, AWS EC2, AWS S3, Google Colab
+
+## 🚀 Freelance Projects
+
+I have worked on various freelance projects including:
+- Advanced Autonomous RAG Systems
+- Graph-based Agentic Document Processing
+- AI-powered Podcast Systems
+- Specialized LLM Fine-Tuning Pipelines
+- Custom AI Agents for Various Applications
+
+Check out my [CV](/cv/) for a complete list of projects.
 
 ## ✍️ Blog Posts
 

@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yaswanth"
+title                    : "Yaswanth Narsupalli"
 title_separator          : "-"
-name                     : &name "Yaswanth"
-description              : &description "personal description"
+name                     : &name "Yaswanth Narsupalli"
+description              : &description "AI Graduate Researcher specializing in Large Language Models"
 url                      : https://yaswanth-iitkgp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yaswanth-iitkgp/yaswanth-iitkgp.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Yaswanth Narsupalli"
   avatar           : "profile-pic.jpg"
-  bio              : "AI Graduate Researcher"
-  location         : "IIT Kharagpur, West Bengal, India"
-  employer         :
+  bio              : "AI Researcher | LLM Specialist | IIT Kharagpur"
+  location         : "Kharagpur, India"
+  employer         : "Indian Institute of Technology Kharagpur"
   pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=0xLN_4gAAAAJ"
   email            : "yasshu.yaswanth@gmail.com"
